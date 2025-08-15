@@ -74,6 +74,6 @@ This project is created for educational and portfolio purposes.
 ---
 
 ## 👩‍💻 Author
-**Shrutika Kadam**  
-Data Analyst | Excel | Power BI | Python | SQL
+**Manas Chitnis**  
+Data Analyst | Excel | SQL
 
